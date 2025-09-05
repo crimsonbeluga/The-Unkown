@@ -1,0 +1,707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|c:\\users\\ldgre\\onedrive\\documents\\github\\dwadad\\unkown\\assets\\scripts\\climbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\climbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\deathstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\camerazonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerazonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\AnimationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\AnimationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\icegolemanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\icegolemanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\mantlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mantlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\deathtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\crawlstuckdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crawlstuckdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\livingdarknessparticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\livingdarknessparticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\enemyaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\cameramode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\playerdeathhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdeathhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\pushpullhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pushpullhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\pleyer controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pleyer controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\player pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\wallinteractionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wallinteractionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\player input actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player input actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\wallinteractionsurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wallinteractionsurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\scene loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\scene load trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene load trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\returntopoststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\returntopoststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5979BA27-B350-17B5-9A2F-0921E3974BD5}|Assembly-CSharp-Editor.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\editor\\wallinteractionsurfaceeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5979BA27-B350-17B5-9A2F-0921E3974BD5}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\wallinteractionsurfaceeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\tornadoparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tornadoparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\plattform mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plattform mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\timelineanimatoroverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timelineanimatoroverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Library\\PackageCache\\com.unity.render-pipelines.core@405083404c88\\Runtime\\Debugging\\DebugUpdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.core@405083404c88\\Runtime\\Debugging\\DebugUpdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Shaders\\Allwhite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Shaders\\Allwhite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\assets\\scripts\\pressure plate handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C94A13-74D2-A670-6073-575A953000D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pressure plate handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Materials\\NewUnlitShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Materials\\NewUnlitShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 230,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 35,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DebugUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Library\\PackageCache\\com.unity.render-pipelines.core@405083404c88\\Runtime\\Debugging\\DebugUpdater.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core@405083404c88\\Runtime\\Debugging\\DebugUpdater.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Library\\PackageCache\\com.unity.render-pipelines.core@405083404c88\\Runtime\\Debugging\\DebugUpdater.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core@405083404c88\\Runtime\\Debugging\\DebugUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:48:05.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Scene Load Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Scene Load Trigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Load Trigger.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Scene Load Trigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Load Trigger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:40:41.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Scene Loader.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Scene Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Loader.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Scene Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Loader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:37:28.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Allwhite.shader",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Shaders\\Allwhite.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Allwhite.shader",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Shaders\\Allwhite.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Allwhite.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-31T01:09:32.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TimelineAnimatorOverride.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\TimelineAnimatorOverride.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimelineAnimatorOverride.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\TimelineAnimatorOverride.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimelineAnimatorOverride.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:41:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TornadoParticle.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\TornadoParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TornadoParticle.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\TornadoParticle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TornadoParticle.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:08:02.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NewUnlitShader.shader",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Materials\\NewUnlitShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Materials\\NewUnlitShader.shader",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Materials\\NewUnlitShader.shader",
+              "RelativeToolTip": "Assets\\Materials\\NewUnlitShader.shader",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-30T10:33:21.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LivingDarknessParticles.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\LivingDarknessParticles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LivingDarknessParticles.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\LivingDarknessParticles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LivingDarknessParticles.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:24:26.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IceGolemAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\IceGolemAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IceGolemAnimator.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\IceGolemAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IceGolemAnimator.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1YAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:21:26.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReturnToPostState.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\ReturnToPostState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReturnToPostState.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\ReturnToPostState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReturnToPostState.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:01:05.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChaseState.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\ChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChaseState.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\ChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:00:29.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackState.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:00:26.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeathState.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\DeathState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathState.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\DeathState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:00:08.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PatrolState.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PatrolState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:05:39.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyAIController.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\EnemyAIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAIController.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\EnemyAIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAIController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwF8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:29:08.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\State.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:11:48.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:56:32.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:15:19.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:45:12.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerDeathHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PlayerDeathHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDeathHandler.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PlayerDeathHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerDeathHandler.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:01:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pleyer Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Pleyer Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pleyer Controller.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Pleyer Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pleyer Controller.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAawDoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:10:44.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Pressure Plate Handler.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Pressure Plate Handler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pressure Plate Handler.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Pressure Plate Handler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pressure Plate Handler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:50:19.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PushPullHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PushPullHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PushPullHandler.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\PushPullHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PushPullHandler.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv5QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:20:43.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RespawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\RespawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RespawnManager.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\RespawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RespawnManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:34:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WallInteractionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\WallInteractionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WallInteractionHandler.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\WallInteractionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WallInteractionHandler.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAAwDICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:15:45.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WallInteractionSurface.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\WallInteractionSurface.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WallInteractionSurface.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\WallInteractionSurface.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WallInteractionSurface.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:14:13.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Player Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Player Pawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Pawn.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Player Pawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Pawn.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAvwBsCAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:56:13.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Player Input Actions.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Player Input Actions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Input Actions.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Player Input Actions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Input Actions.cs",
+              "ViewState": "AgIAABICAAAAAAAAAAAYwCYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:14:32.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Plattform Mover.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Plattform Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plattform Mover.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Plattform Mover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plattform Mover.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:41:56.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MantleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\MantleHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MantleHandler.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\MantleHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MantleHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:14:26.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthManager.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:17:51.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:11:26.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:52:59.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeathTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\DeathTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathTrigger.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\DeathTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:02:20.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrawlStuckDebug.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CrawlStuckDebug.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CrawlStuckDebug.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CrawlStuckDebug.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CrawlStuckDebug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:14:04.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClimbHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\ClimbHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClimbHandler.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\ClimbHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClimbHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:13:58.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:27:28.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraZoneTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CameraZoneTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraZoneTrigger.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CameraZoneTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraZoneTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:46:33.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CameraMode.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CameraMode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMode.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CameraMode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:25:40.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:57:56.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\Box.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:07:34.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationController.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:56:48.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WallInteractionSurfaceEditor.cs",
+              "DocumentMoniker": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Editor\\WallInteractionSurfaceEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\WallInteractionSurfaceEditor.cs",
+              "ToolTip": "C:\\Users\\ldgre\\OneDrive\\Documents\\GitHub\\dwadad\\Unkown\\Assets\\Editor\\WallInteractionSurfaceEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\WallInteractionSurfaceEditor.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:13:57.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

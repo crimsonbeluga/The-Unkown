@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Mantleable
+  - 'ClimbHandler '
+  - Climbable Object
+  - Ground
+  - Box
+  - 'Pressure Plate '
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ledge
+  - Climbable Object
+  - Climbable
+  - Box
+  - Player
+  - Lover Ignore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BakcGround
+    uniqueID: 409446339
+    locked: 0
+  - name: Background Far
+    uniqueID: 2950170049
+    locked: 0
+  - name: 'Background Mid  '
+    uniqueID: 1151826545
+    locked: 0
+  - name: 'Background Near  '
+    uniqueID: 2460742393
+    locked: 0
+  - name: 'Environment Back  '
+    uniqueID: 118969923
+    locked: 0
+  - name: Platforms
+    uniqueID: 4068702815
+    locked: 0
+  - name: 'Environment Front  '
+    uniqueID: 317235839
+    locked: 0
+  - name: Pickups
+    uniqueID: 1208144577
+    locked: 0
+  - name: Traps
+    uniqueID: 2764140051
+    locked: 0
+  - name: 'Enemies Back  '
+    uniqueID: 3170788585
+    locked: 0
+  - name: Player
+    uniqueID: 2581409265
+    locked: 0
+  - name: 'Enemies Front  '
+    uniqueID: 2999190063
+    locked: 0
+  - name: 'FX Back  '
+    uniqueID: 2609362943
+    locked: 0
+  - name: 'FX Front  '
+    uniqueID: 2296543209
+    locked: 0
+  - name: 'UI World  '
+    uniqueID: 1038738977
+    locked: 0
+  - name: HUD
+    uniqueID: 3732526061
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 583904871
+    locked: 0
+  - name: Overlay
+    uniqueID: 2305495481
+    locked: 0
+  - name: Debug
+    uniqueID: 2256326069
+    locked: 0
+  m_RenderingLayers:
+  - Default
